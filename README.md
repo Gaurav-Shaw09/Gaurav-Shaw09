@@ -121,7 +121,7 @@
   <a href="mailto:gauravshaw64@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="me.knishant@gmail.com" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/aurav_Shaw_09" target="blank">
+  <a href="https://www.leetcode.com/gaurav_Shaw_09" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_nishant_18" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/gauravs6t30" target="blank">
