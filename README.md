@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/GitHub-Animated-Logo.gif?raw=true" alt="GitHub Animated Logo" height="180" />
+</p>
+<p align="center">
   <img src="https://github.com/Gaurav-Shaw09/Profile-assets/blob/main/GitHub_Animated_Logo.gif?raw=true" alt="GitHub Animated Logo" height="180" />
 </p>
 
